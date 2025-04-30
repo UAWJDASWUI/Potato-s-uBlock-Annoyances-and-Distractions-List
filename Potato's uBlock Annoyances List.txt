@@ -1,4 +1,4 @@
-! Potato's uBlock Annoyances List v1 3/20/25
+! Potato's uBlock Annoyances List v2 04/30/25
 discord.com###message-reactions-1340365846333358182.reaction__23977
 discord.com##.container_fdeb78>.grow_dd4f85.colorBrand_dd4f85.lookBlank_dd4f85.button_dd4f85
 discord.com##.floatingNitroUpsell__39749.upsellContainerFloating__0b69f.upsellContainerShadow__0b69f.upsellContainer__0b69f
@@ -7,6 +7,9 @@ discords.com##.__0uMW4hgh
 gamejolt.com##.-media-item
 gamejolt.com##video
 odysee.com##.card.file-page__recommended
+old.reddit.com##.linkflair-DelistedGame.has-linkflair.has-thumbnail.search-result-link.search-result
+old.reddit.com##div.linkflair-Expired.has-linkflair.has-thumbnail.search-result-link.search-result
+old.reddit.com##div.linkflair-FtoP.has-linkflair.has-thumbnail.search-result-link.search-result
 reddit.com##.dislikes.entry
 scratch.mit.edu##.studio-list.flex-row
 ucha.se###fb-share-btn
@@ -25,7 +28,9 @@ www.duolingo.com##._3D_HB
 www.duolingo.com##._3JwD6.B6n_W.uDGAA
 www.duolingo.com##._3tDH0
 www.duolingo.com##._3ww7z
+www.duolingo.com##.cY8_V
 www.duolingo.com##.xk0If._7V_nj
+www.duolingo.com##.ZTjh6._2tNGm
 www.roblox.com###nav-robux-icon
 www.roblox.com##.expand-home-content.wide-game-tile-game-grid.home-game-grid.game-grid
 www.roblox.com##.game-home-page-container>div>div>.container-header
