@@ -1,5 +1,6 @@
-! Potato's uBlock Annoyances List v2 04/30/25
+! Potato's uBlock Annoyances List v3 05/06/25
 discord.com###message-reactions-1340365846333358182.reaction__23977
+discord.com##.colorBrand__6e2b9.notice__6e2b9
 discord.com##.container_fdeb78>.grow_dd4f85.colorBrand_dd4f85.lookBlank_dd4f85.button_dd4f85
 discord.com##.floatingNitroUpsell__39749.upsellContainerFloating__0b69f.upsellContainerShadow__0b69f.upsellContainer__0b69f
 discord.com##.nitroTopDividerContainer_b3fb5f
@@ -8,10 +9,14 @@ gamejolt.com##.-media-item
 gamejolt.com##video
 odysee.com##.card.file-page__recommended
 old.reddit.com##.linkflair-DelistedGame.has-linkflair.has-thumbnail.search-result-link.search-result
+old.reddit.com##div.linkflair-BasePaid.has-linkflair.has-thumbnail.search-result-link.search-result
 old.reddit.com##div.linkflair-Expired.has-linkflair.has-thumbnail.search-result-link.search-result
 old.reddit.com##div.linkflair-FtoP.has-linkflair.has-thumbnail.search-result-link.search-result
 reddit.com##.dislikes.entry
+scratch.mit.edu##.messages-icon
+scratch.mit.edu##.postsignature > div
 scratch.mit.edu##.studio-list.flex-row
+scratch.mit.edu##[href="/messages/"]
 ucha.se###fb-share-btn
 ucha.se###modal-time
 ucha.se###subscription-banner
@@ -19,6 +24,7 @@ ucha.se##.show.modal-backdrop
 ucha.se##.text-s-bold.d-md-block.d-none.cta-btn.btn-lindsey.btn.nav-item
 www.curseforge.com##.client-marketing
 www.duolingo.com##._16cpx
+www.duolingo.com##._1Fnem._1ATOC
 www.duolingo.com##._1GhPE>div:nth-of-type(3)
 www.duolingo.com##._1T_BQ._2cnFr._16rRh
 www.duolingo.com##._1TSTY._19idO._3fIZ6.rs95t
@@ -26,9 +32,11 @@ www.duolingo.com##._2CoFd._3KIC2
 www.duolingo.com##._2d-gN
 www.duolingo.com##._3D_HB
 www.duolingo.com##._3JwD6.B6n_W.uDGAA
+www.duolingo.com##._3Mzt6
 www.duolingo.com##._3tDH0
 www.duolingo.com##._3ww7z
 www.duolingo.com##.cY8_V
+www.duolingo.com##.iRKce._3s5cy
 www.duolingo.com##.xk0If._7V_nj
 www.duolingo.com##.ZTjh6._2tNGm
 www.roblox.com###nav-robux-icon
